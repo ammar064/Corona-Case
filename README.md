@@ -1,2 +1,2 @@
 # Corona-Case
-Machine Learning using R in Corona Case
+Machine Learning using Python in Corona Case
